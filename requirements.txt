@@ -1,0 +1,6 @@
+gradio==4.44.1
+deepface==0.0.93
+opencv-python-headless==4.10.0.84
+numpy==1.24.3
+requests==2.32.3
+instaloader==4.13
